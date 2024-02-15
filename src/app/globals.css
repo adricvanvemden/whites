@@ -32,6 +32,11 @@ body {
   }
 }
 
+@media screen and (min-width: 640px) {
+  .glitch {
+    font-size: 6vw !important;
+  }
+}
 .glitch {
   font-size: 16vw;
   font-weight: 700;
